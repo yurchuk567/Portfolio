@@ -1,0 +1,1524 @@
+Unity Editor version:    2020.3.27f1 (e759542391ea)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.13.6 (Build 17G14042)
+Darwin version:          17.7.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mac/Desktop/Create with Code /Projects/3DGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58338
+Successfully changed project path to: /Users/mac/Desktop/Create with Code /Projects/3DGame
+/Users/mac/Desktop/Create with Code /Projects/3DGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 139.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mac/Desktop/Create with Code /Projects/3DGame/Assets
+GfxDevice: creating device client; threaded=0
+2023-12-05 20:36:09.625 Unity[34382:4550152] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2023-12-05 20:36:09.625 Unity[34382:4550152] Metal devices available: 1
+2023-12-05 20:36:09.625 Unity[34382:4550152] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2023-12-05 20:36:09.627 Unity[34382:4550152] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56382
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.005993 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 178.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.941 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1942ms)
+		BeginReloadAssembly (218ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1571ms)
+			LoadAssemblies (221ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (360ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (91ms)
+			SetupLoadedEditorAssemblies (922ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (179ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (547ms)
+				ProcessInitializeOnLoadMethodAttributes (103ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.093045 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 139.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.741 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2745ms)
+		BeginReloadAssembly (343ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (2285ms)
+			LoadAssemblies (294ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (737ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (133ms)
+			SetupLoadedEditorAssemblies (800ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (139ms)
+				BeforeProcessingInitializeOnLoad (165ms)
+				ProcessInitializeOnLoadAttributes (456ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.016710 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.084587 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/3DGame.sln because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/3DGame.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FA9178D6-5EB8-034D-FBFF-A344821AB08F}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFXRRuntime", "CFXRRuntime.csproj", "{14BDD1FF-2F72-DA58-3697-88B948551921}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFXRDemo", "CFXRDemo.csproj", "{2CF762D6-C0E9-8311-0673-53BD43144848}"
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/3DGame.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{08C8E3B5-A725-8BB0-7FCD-8F0B9AE2E277}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Core.Runtime.csproj", "{B77D7A93-74AA-FEE3-00B5-251BFC7877B6}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{B6BC9092-21C9-5454-B595-C497C71B3532}"
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.UI.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.UI.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\GraphicRaycaster.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\Image.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\Toggle.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\Layout\LayoutElement.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\IGraphicEnabledDisabled.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.UI.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\Toggle.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\GraphicRaycaster.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\Text.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\Image.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Runtime\UI\Core\Layout\LayoutElement.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.TestRunner.csproj because it has changed
+[C# Project] First difference on line 52
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.TestRunner.csproj:
+[C# Project]   052:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\Utils\QuaternionEqualityComparer.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\Utils\AssemblyProvider\IScriptingRuntimeProxy.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\NUnitExtensions\Runner\UnityTestAssemblyRunner.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\NUnitExtensions\Runner\UnityTestExecutionContext.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\NUnitExtensions\Runner\FailCommand.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.TestRunner.csproj:
+[C# Project]   052:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\Utils\AssemblyProvider\IScriptingRuntimeProxy.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\NUnitExtensions\Runner\UnityTestExecutionContext.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\TestRunner\RemoteHelpers\RemoteTestResultData.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\Utils\Vector4ComparerWithEqualsOperator.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\TestRunner\PlaymodeTestsControllerSettings.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.UI.Tests.csproj because it has changed
+[C# Project] First difference on line 53
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.UI.Tests.csproj:
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\Util\UIBehaviourExtensions.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\EventSystem\SelectableTests.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\ScrollRect\ScrollRectTests.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\Util\ImageHook.cs" />
+[C# Project]   057:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\EventSystem\InputModuleTests.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEngine.UI.Tests.csproj:
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\ScrollRect\ScrollRectTests.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\Util\ImageHook.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\InputField\GenericInputFieldTests.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\TextEditor\TextEditorTests.cs" />
+[C# Project]   057:      <Compile Include="Packages\com.unity.ugui\Tests\Runtime\Canvas\RectMask2DWithNestedCanvasCullsUsingCorrectCanvasRect.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Assembly-CSharp.csproj because it has changed
+[C# Project] First difference on line 51
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Assembly-CSharp.csproj:
+[C# Project]   051:      <Compile Include="Assets\Scripts\Gate.cs" />
+[C# Project]   052:      <Compile Include="Assets\Scripts\Shop.cs" />
+[C# Project]   053:      <Compile Include="Assets\Scripts\FinishTrigger.cs" />
+[C# Project]   054:      <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+[C# Project]   055:      <Compile Include="Assets\Scripts\GameManager.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Assembly-CSharp.csproj:
+[C# Project]   051:      <Compile Include="Assets\JMO Assets\Cartoon FX (legacy)\Scripts\CFX_LightIntensityFade.cs" />
+[C# Project]   052:      <Compile Include="Assets\Scripts\Gate.cs" />
+[C# Project]   053:      <Compile Include="Assets\Scripts\Shop.cs" />
+[C# Project]   054:      <Compile Include="Assets\Scripts\FinishTrigger.cs" />
+[C# Project]   055:      <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.TextMeshPro.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.TextMeshPro.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_InputField.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_TextProcessingStack.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_TextUtilities.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_SpriteGlyph.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_FontAsset.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.TextMeshPro.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_TextProcessingStack.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_TextUtilities.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMP_SpriteGlyph.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\ITextPreProcessor.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TMPro_MeshUtilities.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Timeline.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Timeline.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.timeline\Runtime\Animation\AnimationPlayableAsset.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.timeline\Runtime\Events\Signals\SignalAsset.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.timeline\Runtime\Events\Signals\CustomSignalEventDrawer.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.timeline\Runtime\Evaluation\RuntimeElement.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.timeline\Runtime\Animation\AnimationPreviewUpdateCallback.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Timeline.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.timeline\Runtime\Events\Signals\SignalAsset.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.timeline\Runtime\Events\Signals\CustomSignalEventDrawer.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.timeline\Runtime\Animation\AnimationPreviewUpdateCallback.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.timeline\Runtime\TimelinePlayable.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.timeline\Runtime\Utilities\IPropertyPreview.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXRDemo.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXRDemo.csproj:
+[C# Project]   050:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR_Demo_Translate.cs" />
+[C# Project]   051:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR_Demo.cs" />
+[C# Project]   052:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR_Demo_Rotate.cs" />
+[C# Project]   053:      <None Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR Demo.asmdef" />
+[C# Project]   054:  <Reference Include="UnityEngine">
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXRDemo.csproj:
+[C# Project]   050:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR_Demo.cs" />
+[C# Project]   051:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR_Demo_Translate.cs" />
+[C# Project]   052:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR_Demo_Rotate.cs" />
+[C# Project]   053:      <None Include="Assets\JMO Assets\Cartoon FX Remaster\Demo Assets\CFXR Demo.asmdef" />
+[C# Project]   054:  <Reference Include="UnityEngine">
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXRRuntime.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXRRuntime.csproj:
+[C# Project]   050:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_EmissionBySurface.cs" />
+[C# Project]   051:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_ParticleTextFontAsset.cs" />
+[C# Project]   052:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_ParticleText.cs" />
+[C# Project]   053:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_Effect.cs" />
+[C# Project]   054:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_Effect.CameraShake.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXRRuntime.csproj:
+[C# Project]   050:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_ParticleText.cs" />
+[C# Project]   051:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_Effect.cs" />
+[C# Project]   052:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_EmissionBySurface.cs" />
+[C# Project]   053:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_ParticleTextFontAsset.cs" />
+[C# Project]   054:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_Effect.CameraShake.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/KinoBloom.Runtime.csproj because it has changed
+[C# Project] First difference on line 649
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/KinoBloom.Runtime.csproj:
+[C# Project]   649:  <Reference Include="UnityEditor.UI">
+[C# Project]   650:  <HintPath>/Users/mac/Desktop/Create with Code /Projects/3DGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+[C# Project]   651:  </Reference>
+[C# Project]   652:  <Reference Include="UnityEngine.UI">
+[C# Project]   653:  <HintPath>/Users/mac/Desktop/Create with Code /Projects/3DGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/KinoBloom.Runtime.csproj:
+[C# Project]   649:   </ItemGroup>
+[C# Project]   650:   <ItemGroup>
+[C# Project]   651:     <ProjectReference Include="UnityEditor.UI.csproj">
+[C# Project]   652:       <Project>{DE594F34-FE26-D473-F26A-D24FAC081A86}</Project>
+[C# Project]   653:       <Name>UnityEditor.UI</Name>
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.PlasticSCM.Editor.csproj because it has changed
+[C# Project] First difference on line 51
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.PlasticSCM.Editor.csproj:
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\Views\PendingChanges\Dialogs\EmptyCheckinMessageDialog.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\Configuration\CloudEdition\Welcome\AutoLogin.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\PlasticProjectSettingsProvider.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\UI\Tree\TreeViewItemIds.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\Views\IncomingChanges\Gluon\IncomingChangesTab.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.PlasticSCM.Editor.csproj:
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\UI\Tree\TreeViewItemIds.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\Views\IncomingChanges\Gluon\IncomingChangesTab.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\Developer\UpdateReport\UpdateReportDialog.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\UI\Avatar\ApplyCircleMask.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.collab-proxy\Editor\PlasticSCM\Developer\ProgressOperationHandler.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.VisualStudio.Editor.csproj because it has changed
+[C# Project] First difference on line 52
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.VisualStudio.Editor.csproj:
+[C# Project]   052:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\UnityInstallation.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\KnownAssemblies.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\UsageUtility.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\Messaging\Deserializer.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\Testing\TestRunnerApiListener.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.VisualStudio.Editor.csproj:
+[C# Project]   052:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\KnownAssemblies.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\UsageUtility.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\Testing\TestRunnerApiListener.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\Messaging\ExceptionEventArgs.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ide.visualstudio\Editor\Messaging\UdpSocket.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Timeline.Editor.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Timeline.Editor.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.timeline\Editor\inspectors\AnimationPlayableAssetInspector.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.timeline\Editor\Actions\Menus\MenuItemActionBase.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.timeline\Editor\Actions\TrackAction.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.timeline\Editor\Utilities\Range.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.timeline\Editor\Window\ViewModel\ScriptableObjectViewPrefs.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Timeline.Editor.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.timeline\Editor\Actions\Menus\MenuItemActionBase.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.timeline\Editor\Utilities\Scopes\HorizontalScope.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.timeline\Editor\Window\TimelineWindow_Breadcrumbs.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.timeline\Editor\treeview\Control.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.timeline\Editor\Undo\ApplyDefaultUndoAttribute.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.TextMeshPro.Editor.csproj because it has changed
+[C# Project] First difference on line 53
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.TextMeshPro.Editor.csproj:
+[C# Project]   053:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\GlyphMetricsPropertyDrawer.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_EditorPanelUI.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_UIStyleManager.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_BaseShaderGUI.cs" />
+[C# Project]   057:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_StyleAssetMenu.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.TextMeshPro.Editor.csproj:
+[C# Project]   053:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_UIStyleManager.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_StyleAssetMenu.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_ProjectTextSettings.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_BitmapShaderGUI.cs" />
+[C# Project]   057:      <Compile Include="Packages\com.unity.textmeshpro\Scripts\Editor\TMP_SubMeshUI_Editor.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.CollabProxy.Editor.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.CollabProxy.Editor.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Models\IModel.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Views\IStartView.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Utilities\MenuUtilities.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Components\Menus\FloatingMenuItem.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Views\Adapters\IAdapter.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.CollabProxy.Editor.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Views\IStartView.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Views\Adapters\IAdapter.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Components\SearchBar.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\Utilities\Threading.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Editor\Collaborate\EditorGameService\CloudCollabService.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/DocCodeExamples.csproj because it has changed
+[C# Project] First difference on line 51
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/DocCodeExamples.csproj:
+[C# Project]   051:      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TimelineAttributesExamples.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TrackAssetExamples.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\ActionExamples.cs" />
+[C# Project]   054:      <None Include="Packages\com.unity.timeline\DocCodeExamples\DocCodeExamples.asmdef" />
+[C# Project]   055:  <Reference Include="UnityEngine">
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/DocCodeExamples.csproj:
+[C# Project]   051:      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TrackAssetExamples.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\ActionExamples.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.timeline\DocCodeExamples\TimelineAttributesExamples.cs" />
+[C# Project]   054:      <None Include="Packages\com.unity.timeline\DocCodeExamples\DocCodeExamples.asmdef" />
+[C# Project]   055:  <Reference Include="UnityEngine">
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.TestRunner.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.TestRunner.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\TestBuildAssemblyFilter.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\Api\ITestAdaptorFactory.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\TestRunner\Utils\IEditorLoadedTestAssemblyProvider.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\GUI\TestListTreeView\TestTreeViewItem.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\TestRun\Tasks\LegacyPlayModeRunTask.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.TestRunner.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\GUI\TestListTreeView\TestTreeViewItem.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\TestRun\Tasks\LegacyPlayModeRunTask.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\TestRunner\Callbacks\RerunCallback.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\TestRunner\Messages\EnterPlayMode.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\TestRun\Tasks\PrebuildSetupTask.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Rider.Editor.csproj because it has changed
+[C# Project] First difference on line 52
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Rider.Editor.csproj:
+[C# Project]   052:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\Discovery.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\UnitTesting\TestsCallback.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\ProjectGeneration\GUIDProvider.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\UnitTesting\CallbackInitializer.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\Util\SerializableVersion.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Rider.Editor.csproj:
+[C# Project]   052:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\UnitTesting\TestsCallback.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\ProjectGeneration\GUIDProvider.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\RiderFileSystemWatcher.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\Util\LibcNativeInterop.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ide.rider\Rider\Editor\UnitTesting\SyncTestRunEventsHandler.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Services.Core.Editor.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Services.Core.Editor.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.services.core\Editor\Core\Networking\IHttpClient.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.services.core\Editor\Core\ProjectStateManagement\IServiceFlagRequest.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.services.core\Editor\Core\ServiceActivationPopup\Visuals\ExceptionVisual.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.services.core\Editor\Core\ServiceActivationPopup\Visuals\ServiceActivationPopupVisual.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.services.core\Editor\Core\ProjectStateManagement\ProjectStateRequest.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.Services.Core.Editor.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.services.core\Editor\Core\ServiceActivationPopup\Visuals\ServiceActivationPopupVisual.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.services.core\Editor\Core\ProjectStateManagement\ProjectStateRequest.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.services.core\Editor\Core\ProjectStateManagement\ServiceFlagRequest.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.services.core\Editor\Core\Networking\HttpRequestExtensions.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.services.core\Editor\Core\Networking\HttpServiceConfig.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.PlasticSCM.EditorTests.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.PlasticSCM.EditorTests.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\Mock\PlasticApiMock.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\AssetMenu\SelectedAssetGroupInfoTests.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\ProjectDownloader\ParseArgumentsTest.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\Views\IncomingChanges\Developer\IsCurrentTests.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\Views\IncomingChanges\Developer\UnityIncomingChangesTreeTests.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.PlasticSCM.EditorTests.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\AssetMenu\SelectedAssetGroupInfoTests.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\Views\IncomingChanges\Developer\IsCurrentTests.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\Mock\BuildWorkspaceTreeNode.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\UI\TextureLoadTests.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\PlasticSCM\Views\IncomingChanges\Developer\IsResolvedTests.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.CollabProxy.EditorTests.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.CollabProxy.EditorTests.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Presenters\StartPresenterTests.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Models\TestStartModel.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Models\ChangesModelTests.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Presenters\TestChangesView.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Models\TestHistoryModel.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.CollabProxy.EditorTests.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Models\ChangesModelTests.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Presenters\HistoryPresenterTests.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Models\StartModelTests.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Presenters\MainPresenterTests.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.collab-proxy\Tests\Editor\Collaborate\Scenario\AsyncToCoroutine.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.VSCode.Editor.csproj because it has changed
+[C# Project] First difference on line 53
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.VSCode.Editor.csproj:
+[C# Project]   053:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\AssemblyNameProvider.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\ProjectGeneration.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\FileIO.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\ProjectGenerationFlag.cs" />
+[C# Project]   057:      <Compile Include="Packages\com.unity.ide.vscode\Editor\VSCodeScriptEditor.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/Unity.VSCode.Editor.csproj:
+[C# Project]   053:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\ProjectGeneration.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\AssemblyNameProvider.cs" />
+[C# Project]   055:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\FileIO.cs" />
+[C# Project]   056:      <Compile Include="Packages\com.unity.ide.vscode\Editor\ProjectGeneration\ProjectGenerationFlag.cs" />
+[C# Project]   057:      <Compile Include="Packages\com.unity.ide.vscode\Editor\VSCodeScriptEditor.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.UI.EditorTests.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.UI.EditorTests.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\Text\FontCreatedByScript.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\EventSystem\InterceptedEventsPreviewTests.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\UnityEvent\UnityEventInvoke.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\CanvasRenderer\ParentCanvasIsSane.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\Canvas\CanvasWidthAssertionErrorWithRectTransform.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.UI.EditorTests.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\EventSystem\InterceptedEventsPreviewTests.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\Slider\SliderRectReferences.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\Canvas\UISystemProfilerAddMarkerWithNullObjectDoesNotCrash.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\Canvas\RootCanvasTests.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Tests\Editor\Canvas\CanvasElementsMaintainValidPositionsWhenCameraOrthoSizeIsZero.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.UI.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.UI.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.ugui\Editor\UI\RawImageEditor.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.ugui\Editor\UI\RectMask2DEditor.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.ugui\Editor\UI\PropertyDrawers\DropdownOptionListDrawer.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Editor\UI\ContentSizeFitterEditor.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Editor\UI\MenuOptions.cs" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/UnityEditor.UI.csproj:
+[C# Project]   050:      <Compile Include="Packages\com.unity.ugui\Editor\UI\PropertyDrawers\DropdownOptionListDrawer.cs" />
+[C# Project]   051:      <Compile Include="Packages\com.unity.ugui\Editor\UI\MenuOptions.cs" />
+[C# Project]   052:      <Compile Include="Packages\com.unity.ugui\Editor\UI\PropertyDrawers\FontDataDrawer.cs" />
+[C# Project]   053:      <Compile Include="Packages\com.unity.ugui\Editor\EventSystem\Physics2DRaycasterEditor.cs" />
+[C# Project]   054:      <Compile Include="Packages\com.unity.ugui\Editor\UI\InputFieldEditor.cs" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXREditor.csproj because it has changed
+[C# Project] First difference on line 50
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXREditor.csproj:
+[C# Project]   050:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_ExpressionParser.cs" />
+[C# Project]   051:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_BuildShaderPreprocessor.cs" />
+[C# Project]   052:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_Styles.cs" />
+[C# Project]   053:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_MaterialInspector.cs" />
+[C# Project]   054:      <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR Editor.asmdef" />
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXREditor.csproj:
+[C# Project]   050:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_BuildShaderPreprocessor.cs" />
+[C# Project]   051:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_Styles.cs" />
+[C# Project]   052:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_MaterialInspector.cs" />
+[C# Project]   053:      <Compile Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR_ExpressionParser.cs" />
+[C# Project]   054:      <None Include="Assets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Editor\CFXR Editor.asmdef" />
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXR.WelcomeScreen.csproj because it has changed
+[C# Project] First difference on line 654
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXR.WelcomeScreen.csproj:
+[C# Project]   654:  <Reference Include="UnityEditor.UI">
+[C# Project]   655:  <HintPath>/Users/mac/Desktop/Create with Code /Projects/3DGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+[C# Project]   656:  </Reference>
+[C# Project]   657:  <Reference Include="UnityEngine.UI">
+[C# Project]   658:  <HintPath>/Users/mac/Desktop/Create with Code /Projects/3DGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/CFXR.WelcomeScreen.csproj:
+[C# Project]   654:   </ItemGroup>
+[C# Project]   655:   <ItemGroup>
+[C# Project]   656:     <ProjectReference Include="UnityEditor.UI.csproj">
+[C# Project]   657:       <Project>{DE594F34-FE26-D473-F26A-D24FAC081A86}</Project>
+[C# Project]   658:       <Name>UnityEditor.UI</Name>
+[C# Project] Writing /Users/mac/Desktop/Create with Code /Projects/3DGame/ToonyColorsPro.Demo.Editor.csproj because it has changed
+[C# Project] First difference on line 653
+
+[C# Project] Current /Users/mac/Desktop/Create with Code /Projects/3DGame/ToonyColorsPro.Demo.Editor.csproj:
+[C# Project]   653:  <Reference Include="UnityEditor.UI">
+[C# Project]   654:  <HintPath>/Users/mac/Desktop/Create with Code /Projects/3DGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+[C# Project]   655:  </Reference>
+[C# Project]   656:  <Reference Include="UnityEngine.UI">
+[C# Project]   657:  <HintPath>/Users/mac/Desktop/Create with Code /Projects/3DGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+
+[C# Project] New /Users/mac/Desktop/Create with Code /Projects/3DGame/ToonyColorsPro.Demo.Editor.csproj:
+[C# Project]   653:   </ItemGroup>
+[C# Project]   654:   <ItemGroup>
+[C# Project]   655:     <ProjectReference Include="KinoBloom.Runtime.csproj">
+[C# Project]   656:       <Project>{EC4E9B51-1CD0-9F0D-705B-55B950C3C2D1}</Project>
+[C# Project]   657:       <Name>KinoBloom.Runtime</Name>
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2877 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 360.6 MB.
+System memory in use after: 360.3 MB.
+
+Unloading 148 unused Assets to reduce memory usage. Loaded Objects now: 3379.
+Total: 5.856477 ms (FindLiveObjects: 0.807712 ms CreateObjectMapping: 0.242816 ms MarkObjects: 4.394831 ms  DeleteObjects: 0.409599 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Environment/URP Settings(/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(3a8589cb74be4441883c5095dc795d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/URP Settings(/UniversalRenderPipelineAsset_Renderer.asset using Guid(3a8589cb74be4441883c5095dc795d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57f9307b9338adb18a676b377b4b1c0') in 0.183132 seconds 
+  Import took 0.194236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.064982 seconds.
+  path: Assets/JMO Assets/Cartoon FX (legacy)
+  artifactKey: Guid(c865e48369a325f4784ecd8444d1ec51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX (legacy) using Guid(c865e48369a325f4784ecd8444d1ec51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea38a065ce9118b8be52a2801bf0be0') in 0.002331 seconds 
+  Import took 0.009856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.001529 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets
+  artifactKey: Guid(bd9d1d014bf0b14428db03b2527d2d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets using Guid(bd9d1d014bf0b14428db03b2527d2d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bf3d3a7207b6e51b6dc5b074d11dd5') in 0.003042 seconds 
+  Import took 0.018438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.944908 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Light
+  artifactKey: Guid(78ded8084a398af4595397de2be10b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Light using Guid(78ded8084a398af4595397de2be10b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1ab473526dfb859694b79da6dbffc8') in 0.004016 seconds 
+  Import took 0.015755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.203432 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Light/CFXR3 Hit Light B (Air).prefab
+  artifactKey: Guid(bbf9e36a48d6c5648a13889afab076fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Light/CFXR3 Hit Light B (Air).prefab using Guid(bbf9e36a48d6c5648a13889afab076fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3db3744b290d2cb5b56f579abff52e') in 1.424029 seconds 
+  Import took 1.435313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Light/CFXR3 LightGlow A (Loop).prefab
+  artifactKey: Guid(acdb90624a404aa438447006f1026065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Light/CFXR3 LightGlow A (Loop).prefab using Guid(acdb90624a404aa438447006f1026065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683ac850488d4335ec632bfa1461bcf6') in 0.549081 seconds 
+  Import took 0.558970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr magic star mesh.asset
+  artifactKey: Guid(bd8a92b47db41f644ae7188f06a986a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Assets/Graphics/cfxr magic star mesh.asset using Guid(bd8a92b47db41f644ae7188f06a986a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecad475647cb6dbf821f43109147f480') in 0.062560 seconds 
+  Import took 0.071889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.359070 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster
+  artifactKey: Guid(b56551e9e3ab84e4180b7b30c06ff232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster using Guid(b56551e9e3ab84e4180b7b30c06ff232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8061013bae450f9bd07bcd2fbb8864') in 0.002198 seconds 
+  Import took 0.015000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.462695 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Ice/CFXR3 Hit Ice B (Air).prefab
+  artifactKey: Guid(6f34ef0d986e9db4199cf75805f79753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Ice/CFXR3 Hit Ice B (Air).prefab using Guid(6f34ef0d986e9db4199cf75805f79753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097e5371525221593925af5d931a50d8') in 1.467922 seconds 
+  Import took 1.481242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.244052 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR Fire Breath.prefab
+  artifactKey: Guid(c4ed38c72957f2241ad144a1614956d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR Fire Breath.prefab using Guid(c4ed38c72957f2241ad144a1614956d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902c97de9b5020bc2a0678810c20b5b6') in 0.470891 seconds 
+  Import took 0.481710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR Fire.prefab
+  artifactKey: Guid(043176b6a68be2b43b073aaaa4782c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR Fire.prefab using Guid(043176b6a68be2b43b073aaaa4782c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e305ff6b0084f7c6e0171fb05a8c4934') in 0.040942 seconds 
+  Import took 0.058234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003076 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR4 Sun.prefab
+  artifactKey: Guid(af6c1e3f046eecd4d81330aeb285600f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR4 Sun.prefab using Guid(af6c1e3f046eecd4d81330aeb285600f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ff99b1ab44df5a8bfcf4149267ee14') in 0.662919 seconds 
+  Import took 0.675779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR2 Firewall A.prefab
+  artifactKey: Guid(2af5562ce69fc2d448481a1587a352a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR2 Firewall A.prefab using Guid(2af5562ce69fc2d448481a1587a352a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4869afbe1073ab9120943248e5d9e586') in 0.033427 seconds 
+  Import took 0.044367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000759 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR3 Hit Fire B (Air).prefab
+  artifactKey: Guid(3ed0d324122d7b24eaec75c55c74aafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Fire/CFXR3 Hit Fire B (Air).prefab using Guid(3ed0d324122d7b24eaec75c55c74aafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2951ea253c9eb8b3f65ffa1197444c99') in 0.031438 seconds 
+  Import took 0.046787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.236145 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR Hit A (Red).prefab
+  artifactKey: Guid(5c755f9bc5253ea418e919994537dcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR Hit A (Red).prefab using Guid(5c755f9bc5253ea418e919994537dcc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74a9cb29d8db8ccbf3f024a06dfbf14') in 0.135820 seconds 
+  Import took 0.143935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR Impact Glowing HDR (Blue).prefab
+  artifactKey: Guid(6398d43fe79ea0140913dc5530c646af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR Impact Glowing HDR (Blue).prefab using Guid(6398d43fe79ea0140913dc5530c646af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1f069d2fff1fab73516ec89bf1e320') in 0.045646 seconds 
+  Import took 0.071766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR2 Ground Hit.prefab
+  artifactKey: Guid(87ee7299dd44ed747af24dbb91bcd33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR2 Ground Hit.prefab using Guid(87ee7299dd44ed747af24dbb91bcd33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0cc4d4897ac366fe9b35e5128be991') in 0.221810 seconds 
+  Import took 0.231221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR Hit D 3D (Yellow).prefab
+  artifactKey: Guid(265d3a5ba69981a4698ceabcedf368b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/CFXR Hit D 3D (Yellow).prefab using Guid(265d3a5ba69981a4698ceabcedf368b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e4153b8bec6323ed97c663883e370f') in 0.166672 seconds 
+  Import took 0.178267 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014239 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.824 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2827ms)
+		BeginReloadAssembly (614ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (49ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (267ms)
+		EndReloadAssembly (2093ms)
+			LoadAssemblies (402ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (689ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (643ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (231ms)
+				ProcessInitializeOnLoadAttributes (383ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 363.4 MB.
+System memory in use after: 363.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3429.
+Total: 5.087514 ms (FindLiveObjects: 0.372152 ms CreateObjectMapping: 0.288276 ms MarkObjects: 4.353242 ms  DeleteObjects: 0.072248 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 252.219260 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(7b209031fa4bf4dfe8873979a9973ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(7b209031fa4bf4dfe8873979a9973ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fba51e4645880863c89a4eb281fe335') in 0.255546 seconds 
+  Import took 0.263102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.599472 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(7b209031fa4bf4dfe8873979a9973ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(7b209031fa4bf4dfe8873979a9973ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0955e661576781a4e65bb06bfc72ac6') in 0.098313 seconds 
+  Import took 0.109902 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017194 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.513 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5522ms)
+		BeginReloadAssembly (526ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (39ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (230ms)
+		EndReloadAssembly (4785ms)
+			LoadAssemblies (440ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1889ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (259ms)
+			SetupLoadedEditorAssemblies (1481ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (572ms)
+				ProcessInitializeOnLoadAttributes (849ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (68ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 365.6 MB.
+System memory in use after: 365.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3467.
+Total: 10.686608 ms (FindLiveObjects: 0.806855 ms CreateObjectMapping: 0.436601 ms MarkObjects: 9.317025 ms  DeleteObjects: 0.124195 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.731 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3732ms)
+		BeginReloadAssembly (298ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (161ms)
+		EndReloadAssembly (3270ms)
+			LoadAssemblies (240ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1053ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (180ms)
+			SetupLoadedEditorAssemblies (1086ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (367ms)
+				ProcessInitializeOnLoadAttributes (673ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (74ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 365.9 MB.
+System memory in use after: 366.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3469.
+Total: 5.864526 ms (FindLiveObjects: 0.509769 ms CreateObjectMapping: 0.193523 ms MarkObjects: 5.125257 ms  DeleteObjects: 0.032321 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030469 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.234 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3239ms)
+		BeginReloadAssembly (517ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (27ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (230ms)
+		EndReloadAssembly (2592ms)
+			LoadAssemblies (413ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (778ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (147ms)
+			SetupLoadedEditorAssemblies (855ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (282ms)
+				ProcessInitializeOnLoadAttributes (534ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (40ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 366.1 MB.
+System memory in use after: 366.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3471.
+Total: 8.456683 ms (FindLiveObjects: 0.640317 ms CreateObjectMapping: 0.878889 ms MarkObjects: 6.861389 ms  DeleteObjects: 0.073023 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2223.504188 seconds.
+  path: Assets/Sound
+  artifactKey: Guid(94ec5f47ff8cc46a796b9d84e2857621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound using Guid(94ec5f47ff8cc46a796b9d84e2857621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2abdbfa9174bf33948d0d66ab6f9be') in 0.172539 seconds 
+  Import took 0.248634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.342766 seconds.
+  path: Assets/Sound/341695__projectsu012__coins-1.wav
+  artifactKey: Guid(e7ba9c0d7f23b4c4a84bf4ad5f56c8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/341695__projectsu012__coins-1.wav using Guid(e7ba9c0d7f23b4c4a84bf4ad5f56c8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dcdf33c3575a92905a9135b3efce784') in 0.476080 seconds 
+  Import took 0.487415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Sound/512246__neospica__crash.wav
+  artifactKey: Guid(83c798a2e4f094ce6936670ca5daa422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/512246__neospica__crash.wav using Guid(83c798a2e4f094ce6936670ca5daa422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4c5fcc8f27c9a73365c656ab80d6d7') in 0.031118 seconds 
+  Import took 0.041143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Sound/467784__sgak__step.wav
+  artifactKey: Guid(90438c060906041eaa1849fc268d495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/467784__sgak__step.wav using Guid(90438c060906041eaa1849fc268d495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46555ea703c1fdef0dc3cc4771e245be') in 0.028668 seconds 
+  Import took 0.052180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.275408 seconds.
+  path: Assets/Sound/Coin.wav
+  artifactKey: Guid(e7ba9c0d7f23b4c4a84bf4ad5f56c8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Coin.wav using Guid(e7ba9c0d7f23b4c4a84bf4ad5f56c8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229e66a770cdb68dd9ea45cb18ae75eb') in 0.046885 seconds 
+  Import took 0.058000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.722323 seconds.
+  path: Assets/Sound/Crash.wav
+  artifactKey: Guid(83c798a2e4f094ce6936670ca5daa422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Crash.wav using Guid(83c798a2e4f094ce6936670ca5daa422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290f27888e95c8b600afd9e8f3427096') in 0.029995 seconds 
+  Import took 0.040465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.126235 seconds.
+  path: Assets/Sound/Walk.wav
+  artifactKey: Guid(90438c060906041eaa1849fc268d495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Walk.wav using Guid(90438c060906041eaa1849fc268d495b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9498aa1d5029219401394d56bad11b57') in 0.052796 seconds 
+  Import took 0.067150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 890.596099 seconds.
+  path: Assets/Prefabs/CFXR3 Hit Light B (Air).prefab
+  artifactKey: Guid(bbf9e36a48d6c5648a13889afab076fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CFXR3 Hit Light B (Air).prefab using Guid(bbf9e36a48d6c5648a13889afab076fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f70c8d4695d7395462cd6816ea37ae') in 0.495170 seconds 
+  Import took 0.566956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 531.389782 seconds.
+  path: Assets/Prefabs/CFXR3 Hit Light B (Air).prefab
+  artifactKey: Guid(bbf9e36a48d6c5648a13889afab076fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CFXR3 Hit Light B (Air).prefab using Guid(bbf9e36a48d6c5648a13889afab076fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65baaf986509ee43e162e7bbc9730d4e') in 0.072268 seconds 
+  Import took 0.082601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.170767 seconds.
+  path: Assets/Prefabs/BricksEffect.prefab
+  artifactKey: Guid(91c4dd23c903e47789bb7a1bc3cb1a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BricksEffect.prefab using Guid(91c4dd23c903e47789bb7a1bc3cb1a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b24d7f82f2e20f8bce6210ceecea67') in 0.062603 seconds 
+  Import took 0.095186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.142273 seconds.
+  path: Assets/Prefabs/BricksEffect.prefab
+  artifactKey: Guid(91c4dd23c903e47789bb7a1bc3cb1a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BricksEffect.prefab using Guid(91c4dd23c903e47789bb7a1bc3cb1a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a335550bbeedc08596128c3427624343') in 0.027604 seconds 
+  Import took 0.049093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.365183 seconds.
+  path: Assets/Prefabs/BricksEffect.prefab
+  artifactKey: Guid(91c4dd23c903e47789bb7a1bc3cb1a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BricksEffect.prefab using Guid(91c4dd23c903e47789bb7a1bc3cb1a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317635a10442e7f2cd7c6d6dc25f6864') in 0.088024 seconds 
+  Import took 0.119122 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.027559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.098 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3104ms)
+		BeginReloadAssembly (569ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (59ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (245ms)
+		EndReloadAssembly (2414ms)
+			LoadAssemblies (421ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (769ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (129ms)
+			SetupLoadedEditorAssemblies (691ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (254ms)
+				ProcessInitializeOnLoadAttributes (401ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (35ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 370.8 MB.
+System memory in use after: 371.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3512.
+Total: 5.336629 ms (FindLiveObjects: 0.277268 ms CreateObjectMapping: 0.120465 ms MarkObjects: 4.909307 ms  DeleteObjects: 0.028323 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.848 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2853ms)
+		BeginReloadAssembly (336ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (115ms)
+		EndReloadAssembly (2358ms)
+			LoadAssemblies (379ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (864ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (120ms)
+			SetupLoadedEditorAssemblies (701ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (215ms)
+				ProcessInitializeOnLoadAttributes (453ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 371.0 MB.
+System memory in use after: 371.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3514.
+Total: 5.399590 ms (FindLiveObjects: 0.316093 ms CreateObjectMapping: 0.131662 ms MarkObjects: 4.812529 ms  DeleteObjects: 0.137982 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010378 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.519 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4523ms)
+		BeginReloadAssembly (582ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (35ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (266ms)
+		EndReloadAssembly (3800ms)
+			LoadAssemblies (418ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (882ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (132ms)
+			SetupLoadedEditorAssemblies (1501ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (35ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (543ms)
+				ProcessInitializeOnLoadAttributes (868ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (133ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 371.2 MB.
+System memory in use after: 371.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3516.
+Total: 8.919324 ms (FindLiveObjects: 0.577084 ms CreateObjectMapping: 0.221340 ms MarkObjects: 8.016837 ms  DeleteObjects: 0.102103 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016588 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.541 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4544ms)
+		BeginReloadAssembly (767ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (39ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (363ms)
+		EndReloadAssembly (3627ms)
+			LoadAssemblies (482ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (770ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (111ms)
+			SetupLoadedEditorAssemblies (1581ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (42ms)
+				SetLoadedEditorAssemblies (9ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (928ms)
+				ProcessInitializeOnLoadAttributes (576ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 371.4 MB.
+System memory in use after: 371.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3518.
+Total: 7.974372 ms (FindLiveObjects: 0.762666 ms CreateObjectMapping: 0.395622 ms MarkObjects: 6.631417 ms  DeleteObjects: 0.182734 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.029220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.824 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2825ms)
+		BeginReloadAssembly (325ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (109ms)
+		EndReloadAssembly (2385ms)
+			LoadAssemblies (346ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (783ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (95ms)
+			SetupLoadedEditorAssemblies (792ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (219ms)
+				ProcessInitializeOnLoadAttributes (533ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (56ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 371.6 MB.
+System memory in use after: 371.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3520.
+Total: 6.748179 ms (FindLiveObjects: 0.510264 ms CreateObjectMapping: 0.255373 ms MarkObjects: 5.951773 ms  DeleteObjects: 0.029092 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.042704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.879 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2880ms)
+		BeginReloadAssembly (314ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (135ms)
+		EndReloadAssembly (2437ms)
+			LoadAssemblies (300ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (760ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (112ms)
+			SetupLoadedEditorAssemblies (821ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (290ms)
+				ProcessInitializeOnLoadAttributes (493ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (41ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 371.8 MB.
+System memory in use after: 372.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3522.
+Total: 5.028978 ms (FindLiveObjects: 0.297961 ms CreateObjectMapping: 0.158543 ms MarkObjects: 4.531808 ms  DeleteObjects: 0.038836 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.967 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2974ms)
+		BeginReloadAssembly (261ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (28ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (124ms)
+		EndReloadAssembly (2600ms)
+			LoadAssemblies (144ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (709ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (144ms)
+			SetupLoadedEditorAssemblies (1151ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (561ms)
+				ProcessInitializeOnLoadAttributes (557ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (35ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 372.0 MB.
+System memory in use after: 372.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3524.
+Total: 8.534450 ms (FindLiveObjects: 0.690320 ms CreateObjectMapping: 0.300539 ms MarkObjects: 7.508309 ms  DeleteObjects: 0.033763 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.030109 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.938 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7942ms)
+		BeginReloadAssembly (1380ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (38ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (688ms)
+		EndReloadAssembly (5637ms)
+			LoadAssemblies (1204ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1888ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (182ms)
+			SetupLoadedEditorAssemblies (1580ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (546ms)
+				ProcessInitializeOnLoadAttributes (945ms)
+				ProcessInitializeOnLoadMethodAttributes (68ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (215ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 9.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2739 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 372.2 MB.
+System memory in use after: 372.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 12.386866 ms (FindLiveObjects: 0.954077 ms CreateObjectMapping: 0.644116 ms MarkObjects: 10.682542 ms  DeleteObjects: 0.104195 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
